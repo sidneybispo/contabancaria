@@ -1,4 +1,4 @@
-package aula05;
+package arq05;
 public class ContaBanco {
     //Atributos
     public int numConta;
