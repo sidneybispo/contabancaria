@@ -1,4 +1,5 @@
 package arq05;
+//Autor: Sidney Bispo
 public class ContaBanco {
     //Atributos
     public int numConta;
